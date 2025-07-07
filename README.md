@@ -1,10 +1,5 @@
 # 📑 Signature Detection using CNNs
 
-**Author:** Abdullah Masood Mughal  
-**Institution:** FAST NUCES Islamabad, Pakistan  
-**Email:** i210822@nu.edu.pk
-
----
 
 ## 🗂️ Project Overview
 
@@ -55,3 +50,9 @@ The data loader:
    ```bash
    git clone https://github.com/yourusername/Signature-Detection-CNN.git
    cd Signature-Detection-CNN
+
+2. **Open run the Jupyternotebook**
+3. **Pip install all the libraries in the notebook**
+4. **Set the input and output data directories after dowloading the dataset**
+5. **Train the model**
+6. **Run on the test set**
