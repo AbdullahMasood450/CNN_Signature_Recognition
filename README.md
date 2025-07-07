@@ -1,5 +1,7 @@
-# 📑 Signature Detection using CNNs
+# Signature Detection using CNNs
 
+## 📑 Research Paper
+[CNN_Signature_Recog.pdf](https://github.com/user-attachments/files/21100811/CNN_Signature_Recog.pdf)
 
 ## 🗂️ Project Overview
 
