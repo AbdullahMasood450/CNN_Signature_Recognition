@@ -37,10 +37,10 @@ The project also compares CNN-based feature extraction with manual techniques li
 ## ⚙️ Data Loader Function
 
 The data loader:
-- Loads images and and creates labels and forms a structured directory of train,test and val.
+- Loads images and forms a structured directory calssifying images as training, test and validation.
 - Reads each signature in grayscale and resizes to 128×128 px.
 - Labels each image as `imagenumber_rownumber`.
-- Returns NumPy arrays for training/testing.
+- Returns NumPy arrays for training/testing/validations.
 
 ---
 
@@ -50,9 +50,20 @@ The data loader:
    ```bash
    git clone https://github.com/yourusername/Signature-Detection-CNN.git
    cd Signature-Detection-CNN
+2. **Download the dataset**
+3. **Open run the Jupyternotebook**
+4. **Pip install all the libraries in the notebook**
+5. **Set the input and output data directory link**
+6. **Train the model**
+7. **Run on the test set**
 
-2. **Open run the Jupyternotebook**
-3. **Pip install all the libraries in the notebook**
-4. **Set the input and output data directories after dowloading the dataset**
-5. **Train the model**
-6. **Run on the test set**
+---
+
+## Loss and Accuracy Plots
+![Loss_Accuracy](https://github.com/user-attachments/assets/beaf0acd-3a20-4211-82fd-47d6e67a0cd0)
+
+## Precisionn Recall and F1 confusion Matrix
+![Precison, Recall, F1](https://github.com/user-attachments/assets/8d937a26-acbd-4b4b-ac97-fc70ccfc437d)
+
+
+   
