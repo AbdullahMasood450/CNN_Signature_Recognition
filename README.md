@@ -76,12 +76,12 @@ These results indicate that while the model performed well on the training data,
 
 ---
 
-### 📈 Visualizations
+## 📈 Visualizations
 
-## Loss and Accuracy Plots
+### Loss and Accuracy Plots
 ![Loss_Accuracy](https://github.com/user-attachments/assets/beaf0acd-3a20-4211-82fd-47d6e67a0cd0)
 
-## Precisionn Recall and F1 confusion Matrix
+### Precisionn Recall and F1 confusion Matrix
 ![Precison, Recall, F1](https://github.com/user-attachments/assets/8d937a26-acbd-4b4b-ac97-fc70ccfc437d)
 
 
