@@ -37,7 +37,7 @@ The project also compares CNN-based feature extraction with manual techniques li
 ## ⚙️ Data Loader Function
 
 The data loader:
-- Loads images and labels from a structured directory.
+- Loads images and and creates labels and forms a structured directory of train,test and val.
 - Reads each signature in grayscale and resizes to 128×128 px.
 - Labels each image as `imagenumber_rownumber`.
 - Returns NumPy arrays for training/testing.
