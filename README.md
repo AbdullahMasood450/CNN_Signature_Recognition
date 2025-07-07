@@ -3,7 +3,7 @@
 
 ## 🗂️ Project Overview
 
-This project presents the development of a **Convolutional Neural Network (CNN)** model to classify and identify handwritten signatures belonging to different individuals. The dataset consists of **16 images**, each containing **12 rows** with **4 signatures per row**.  
+This project presents the development of a **Convolutional Neural Network (CNN)** model to classify and identify handwritten signatures belonging to different individuals. The dataset consists of **16 images**, each containing **12 rows** with **4 signatures per row**. *Each row in every image represents a seperate individual to whom the signatures belong to.*
 
 The goal is to segment these signatures, preprocess them, and train a CNN to recognize which signature belongs to which person. Labels follow the format **`imagenumber_rownumber`**, indicating the image and row the signature came from.  
 
