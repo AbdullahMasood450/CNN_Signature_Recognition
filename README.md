@@ -59,6 +59,25 @@ The data loader:
 
 ---
 
+## 📊 Results
+
+The **CNN Signature Recognition** model was trained and evaluated on the prepared dataset.  
+Below are the summarized results:
+
+- **Training Accuracy:** ~75.12%  
+- **Validation/Test Accuracy:** ~9.94%  
+- **Train Loss:** ~2.80  
+- **Test Loss:** ~5.20  
+- **Precision:** ~9%  
+- **Recall:** ~12%  
+- **F1 Score:** ~10%  
+
+These results indicate that while the model performed well on the training data, its test accuracy and generalization remain low — highlighting overfitting and the need for further improvements like **data augmentation**, **hyperparameter tuning**, or exploring **more advanced architectures**.
+
+---
+
+### 📈 Visualizations
+
 ## Loss and Accuracy Plots
 ![Loss_Accuracy](https://github.com/user-attachments/assets/beaf0acd-3a20-4211-82fd-47d6e67a0cd0)
 
